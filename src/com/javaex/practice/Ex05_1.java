@@ -2,7 +2,7 @@ package com.javaex.practice;
 
 import java.util.Scanner;
 
-public class Ex05 {
+public class Ex05_1 {
 
 	public static void main(String[] args) {
 		int j = 0;
